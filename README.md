@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me h.asensio on IG 
--☠️☠️☠️☠️ cryptography and blockchain technology 🤖🤖🤖🤖
+- ☠️☠️☠️☠️ cryptography and blockchain technology 🤖🤖🤖🤖
+
+
+
+
 
 
 <!---
