@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me h.asensio on IG 
+-☠️☠️☠️☠️ cryptography and blockchain technology 🤖🤖🤖🤖
+
 
 <!---
 mykill1/mykill1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
